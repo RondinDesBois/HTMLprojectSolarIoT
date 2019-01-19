@@ -1,0 +1,1 @@
+{"d":{"eastLDR":"187","northLDR":"253","westLDR":"278","southLDR":"468","tiltDir":"up"}}

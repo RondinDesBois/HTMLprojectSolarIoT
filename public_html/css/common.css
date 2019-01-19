@@ -1,0 +1,28 @@
+.navbar-yellow {
+    background-color: #DEC049 !important;
+    border-color: #E7E7E7;
+}
+#logo {
+    width: 60px;
+
+}
+#logo img {
+  width: 100%;
+}
+section {
+  padding: 25px;
+}
+#content {
+  padding: 25px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+footer nav {
+  margin-bottom: 0px !important;
+}
+footer nav div {
+  line-height: 50px;
+}
